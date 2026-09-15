@@ -5,7 +5,7 @@
 <h1 align="center">MODI CHASSIS SYSTEM</h1>
 
 <p align="center">
-  面向 MODI 四轮舵轮底盘的控制、建图、定位与导航 Web 示教器
+  面向 MODI 四舵轮底盘的控制、建图、定位与导航 Web 示教器
 </p>
 
 <p align="center">
