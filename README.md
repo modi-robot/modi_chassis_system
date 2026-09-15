@@ -1,10 +1,32 @@
-# MODI SYSTEM
+<p align="center">
+  <img src="docs/image/modi.png" alt="墨的智能 MODI" width="300">
+</p>
 
-面向 MODI 四轮舵轮底盘的控制、建图、定位与导航 Web 示教器。
+<h1 align="center">MODI CHASSIS SYSTEM</h1>
 
-![Access: Browser](https://img.shields.io/badge/Access-Browser-2f80ed) ![Visualization: 2D and 3D](<https://img.shields.io/badge/Visualization-2D%20%7C%203D-5c6bc0>) ![Control: Chassis](https://img.shields.io/badge/Control-Chassis-00a67e) ![SLAM: Mapping and Localization](<https://img.shields.io/badge/SLAM-Mapping%20%7C%20Localization-8e44ad>) ![Diagnostics: Logs and Faults](<https://img.shields.io/badge/Diagnostics-Logs%20%7C%20Faults-d32f2f>)
+<p align="center">
+  面向 MODI 四轮舵轮底盘的控制、建图、定位与导航 Web 示教器
+</p>
 
-[用户使用手册](docs/frontend-user-guide.md) · [主要功能](#主要功能) · [界面说明](#核心界面) · [快速开始](#快速开始) · [安全提示](#安全提示)
+<p align="center">
+  <img src="https://img.shields.io/badge/Access-Browser-2f80ed" alt="Browser Access">
+  <img src="https://img.shields.io/badge/Visualization-2D%20%7C%203D-5c6bc0" alt="2D and 3D Visualization">
+  <img src="https://img.shields.io/badge/Control-Chassis-00a67e" alt="Chassis Control">
+  <img src="https://img.shields.io/badge/SLAM-Mapping%20%7C%20Localization-8e44ad" alt="Mapping and Localization">
+  <img src="https://img.shields.io/badge/Diagnostics-Logs%20%7C%20Faults-d32f2f" alt="Logs and Fault Diagnostics">
+</p>
+
+<p align="center">
+  <a href="docs/frontend-user-guide.md"><strong>用户使用手册</strong></a>
+  ·
+  <a href="#主要功能"><strong>主要功能</strong></a>
+  ·
+  <a href="#底盘界面"><strong>界面说明</strong></a>
+  ·
+  <a href="#开始使用"><strong>快速开始</strong></a>
+  ·
+  <a href="#安全提示"><strong>安全提示</strong></a>
+</p>
 
 ---
 
@@ -34,7 +56,7 @@ MODI CHASSIS SYSTEM 为 MODI 提供底盘控制、状态管理、参数配置与
 
 页面由顶部状态栏、左侧底盘视图和右侧功能标签页组成。
 
-![1789442904877](image/README/1789442904877.png)
+![MODI CHASSIS SCOPE 底盘控制界面](docs/image/frontend-user-guide/1789454394796.png)
 
 右侧主标签页：
 
